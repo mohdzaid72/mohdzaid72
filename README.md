@@ -1,55 +1,95 @@
-## Hi there 👋
 # Hi there 👋, I'm Mohd Zaid
 
-**AI/ML Engineer | GenAI & Agentic AI Enthusiast**  
+## **AI/ML Engineer | Generative & Agentic AI Specialist | Data Scientist**
 
-I build **intelligent AI applications, conversational agents, and RAG pipelines** using state-of-the-art tools and frameworks. I’m passionate about **Generative AI, Large Language Models, MLOps, and deploying scalable ML solutions**.
+I am a **passionate AI & ML developer** with hands-on experience building **intelligent applications, machine learning pipelines, and generative AI systems**. I specialize in **LLMs, AI agents, RAG systems, and deploying scalable ML solutions**. My focus is on combining **cutting-edge AI technologies** with **real-world problem-solving**.
+
+I thrive in challenging projects that require creativity, analytical thinking, and deployment of end-to-end AI/ML solutions.
 
 ---
 
 ## 🔹 About Me
-- B.Tech CSE | AI & ML Developer  
-- Hands-on experience with **LangChain, LangGraph, LangSmith, FastAPI, Streamlit**  
-- Skilled in **vector databases, retrieval-augmented generation (RAG), and multi-agent AI systems**  
-- Knowledge of **MLOps lifecycle, Docker, Kubernetes, cloud deployment (AWS, GCP, Azure)**  
-- Building projects that combine **AI, NLP, and real-world problem solving**
+- B.Tech CSE | AI/ML Developer  
+- Expertise in **Generative AI, Agentic AI, LLMs, and Multi-Agent Systems**  
+- Proficient in **Data Science, Machine Learning, Deep Learning, and NLP**  
+- Experience in **MLOps, Cloud Deployment (AWS, GCP, Azure), Docker & Kubernetes**  
+- Strong understanding of **data pipelines, ETL, feature engineering, and vector databases**  
+- Building projects that bridge **AI research and practical applications**  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-**Languages:** Python, SQL, NoSQL (MongoDB)  
-**AI/ML Frameworks:** Hugging Face Transformers, Scikit-learn, PyTorch (basics)  
-**Generative AI & Agents:** LangChain, LangGraph, LangSmith, RAG Systems, AI Chatbots  
-**MLOps & Deployment:** Docker, Kubernetes, MLflow, DVC, Cloud (AWS/GCP/Azure)  
-**Data & Databases:** ETL pipelines, Feature Engineering, Vector DBs (Pinecone, Chroma, FAISS)  
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit, FastAPI  
+
+**Languages & Libraries:**  
+Python, SQL, NoSQL (MongoDB), Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow (basics)  
+
+**Generative AI & LLMs:**  
+LangChain, LangGraph, LangSmith, HuggingFace Transformers, RAG Pipelines, Conversational Agents  
+
+**Machine Learning & Data Science:**  
+Regression, Classification, NLP, Recommendation Systems, RNNs, Deep Learning, Feature Engineering, Data Cleaning  
+
+**MLOps & Deployment:**  
+Docker, Kubernetes, MLflow, DVC, CI/CD for ML, Model Monitoring, Cloud Deployment (AWS/GCP/Azure)  
+
+**Data & Databases:**  
+Vector DBs (Pinecone, Chroma, FAISS), MySQL, ETL pipelines  
+
+**Tools & Platforms:**  
+Git, GitHub, VS Code, Jupyter Notebook, Streamlit, FastAPI  
 
 ---
 
 ## 📂 Featured Projects
 
-### 1️⃣ Interactive AI Chatbot
-- **Description:** Chatbot with **multi-turn memory**, token-by-token streaming, and **contextual dialogue management**.  
-- **Tech:** Python, LangChain, LangGraph, Streamlit, Hugging Face LLMs  
+### 1️⃣ **Interactive AI Chatbot**
+- **Description:** Multi-turn conversational agent with **token-by-token streaming** and **contextual memory management**.  
+- **Key Features:**  
+  - Integrated with **LangGraph & HuggingFace LLMs**  
+  - Real-time **streaming responses** in Streamlit  
+  - Maintains **session-based conversation memory**  
+- **Tech:** Python, Streamlit, LangChain, LangGraph, HuggingFace Transformers  
 
-### 2️⃣ Resume Analyzer & Job Recommendation
-- **Description:** Web app that parses resumes, extracts skills, and recommends job roles using NLP.  
+### 2️⃣ **YouTube Video Chatbot**
+- **Description:** AI-powered chatbot that allows users to **ask questions about YouTube videos** and get precise, context-aware answers.  
+- **Key Features:**  
+  - Extracts **video transcripts and content embeddings**  
+  - Implements **RAG (Retrieval-Augmented Generation)** for accurate responses  
+  - Maintains **conversation context** across multiple queries  
+  - Interactive **Streamlit interface with real-time response streaming**  
+- **Tech:** Python, Streamlit, LangChain, LangGraph, HuggingFace Transformers, Vector DB  
+
+### 3️⃣ **Resume Analyzer & Job Recommendation**
+- **Description:** NLP-based web application that **parses resumes, extracts skills, and recommends suitable job roles**.  
+- **Key Features:**  
+  - Smart **keyword extraction and skill matching**  
+  - End-to-end **data pipeline with MySQL**  
+  - AI-powered **role recommendation engine**  
 - **Tech:** Python, Streamlit, MySQL, NLP, Scikit-learn  
 
-### 3️⃣ Movie Recommendation System
-- **Description:** RNN-based movie recommender using content-based filtering and embeddings.  
-- **Tech:** Python, Pandas, Numpy, Scikit-learn  
+### 4️⃣ **Movie Recommendation System**
+- **Description:** RNN-based recommendation engine using **content embeddings** and **collaborative filtering**.  
+- **Key Features:**  
+  - Generates **personalized movie suggestions**  
+  - Implements **CountVectorizer and RNN-based embeddings**  
+- **Tech:** Python, Pandas, NumPy, Scikit-learn, PyTorch  
 
-### 4️⃣ Car Price Prediction
-- **Description:** ML model to predict car prices with regression, deployed via Flask web app.  
-- **Tech:** Python, Flask, HTML/CSS, JavaScript, Scikit-learn  
-
-*(More projects in my repositories!)*
-
+### 5️⃣ **Car Price Prediction**
+- **Description:** Predicts **car prices** using linear regression and ML pipelines, deployed via Flask.  
+- **Key Features:**  
+  - End-to-end **model deployment with web interface**  
+  - Real-time **input and prediction** functionality  
+- **Tech:** Python, Flask, HTML/CSS, JavaScript, Scikit-learn
 ---
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdzaid72&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdzaid72&layout=compact&theme=radical)  
+
+---
+
+## 🌟 Open Source & Collaboration
+I actively contribute to **open-source AI & ML projects**, explore **new AI frameworks**, and enjoy collaborating with other developers and researchers.  
 
 ---
 
@@ -59,6 +99,9 @@ I build **intelligent AI applications, conversational agents, and RAG pipelines*
 - **Portfolio / Projects:** Check pinned repositories on this profile  
 
 ---
+
+## 🚀 Let’s Build Intelligent Systems Together!
+I am open to **job opportunities, collaborations, and internships** in AI, Machine Learning, Generative AI, and MLOps.  
 
 
 
