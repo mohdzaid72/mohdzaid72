@@ -95,7 +95,7 @@ I actively contribute to **open-source AI & ML projects**, explore **new AI fram
 
 ## 📫 Connect with Me
 - **Email:** mohdzaidonly@gmail.com  
-- **LinkedIn:** [linkedin.com/in/mohdzaid72](https://www.linkedin.com/in/mohdzaid72)  
+- **LinkedIn:** [linkedin.com/in/mohdzaid72](https://www.linkedin.com/in/mohd-zaid-5b6452233/) 
 - **Portfolio / Projects:** Check pinned repositories on this profile  
 
 ---
