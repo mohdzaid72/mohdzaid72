@@ -119,8 +119,6 @@ I am open to **job opportunities, collaborations, and internships** in AI, Machi
 
 
 
-
-
 <!--
 **mohdzaid72/mohdzaid72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
